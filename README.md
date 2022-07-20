@@ -1,2 +1,17 @@
-# Capstone-project-
-This is the Capstone project documentation of the NG30daysoflearningin the data analytics track 
+# Capstone-project
+
+....
+# Problem Statement
+
+.......
+# Data Sourcing 
+
+.....
+# Data Cleaning and Transformation
+
+
+
+.....
+# Recommendation
+
+
